@@ -1,0 +1,6 @@
+{
+  "reporter": ["lcov", "cobertura", "text", "text-summary"],
+  "exclude-after-remap": false,
+  "check-coverage": true,
+  "all": true
+}
